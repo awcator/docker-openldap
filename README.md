@@ -1,4 +1,5 @@
-# osixia/openldap
+# awcator/hopenldap
+Osxnia opneldap modified to support awcator/awcatoPqChecker plugin to validaitate passwords
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/osixia/openldap.svg)](https://hub.docker.com/r/osixia/openldap/)
 [![Docker Stars](https://img.shields.io/docker/stars/osixia/openldap.svg)](https://hub.docker.com/r/osixia/openldap/)
